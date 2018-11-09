@@ -1,0 +1,3 @@
+﻿  myFirstProgect.cpp
+c:\users\usern\source\repos\myfirstprogect\myfirstprogect\myfirstprogect.cpp(98): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  myFirstProgect.vcxproj -> C:\Users\usern\source\repos\myFirstProgect\Debug\myFirstProgect.exe
